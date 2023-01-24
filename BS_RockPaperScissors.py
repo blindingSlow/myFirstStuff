@@ -133,7 +133,7 @@ Computer:  {pTwoScore}""")
             animaString("""Blinding Slow Artsy Stuff kinda thank you for playing...
 ...seriously though, thanks!""")
             time.sleep(1)
-            animaString("contact me! blindingslow@gmail.com")
+            animaString("contact me! github.com/blindingslow")
             time.sleep(5)
             animaString("Goodbye!!!")
             time.sleep(2)
